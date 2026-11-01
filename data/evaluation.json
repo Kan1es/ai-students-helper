@@ -1,0 +1,8 @@
+[
+  {"question": "Как работать с таблицами Pandas?", "expected_lesson_ids": ["fb6e39d8-b3de-4efc-9ec2-60d3e3cd4942", "73f66558-d3b8-49a6-b729-34ad760fb273"]},
+  {"question": "Для чего используются матрицы NumPy?", "expected_lesson_ids": ["9cecdbf6-4246-4484-9c77-6cbd2dad36b6", "e4c4aa6e-a477-485f-a6ee-3efa0bffa3a9"]},
+  {"question": "Как создать Excel-файл в Python?", "expected_lesson_ids": ["b0b35e11-b89f-4e9d-ba8b-4db9b08657d9"]},
+  {"question": "Как выполнить Web-parsing?", "expected_lesson_ids": ["cd3e3cef-f1a5-417e-ad34-e80849e044a0", "113368c8-5c8d-4332-989c-6711e3981da1"]},
+  {"question": "Как построить визуализацию в Python?", "expected_lesson_ids": ["8f7f347e-9e65-4ade-9284-b82f70aebb17", "92b76b56-5b28-4ff0-90ff-1d4426737444"]},
+  {"question": "Квантовая телепортация запутанных кубитов", "expected_lesson_ids": [], "expect_empty": true}
+]

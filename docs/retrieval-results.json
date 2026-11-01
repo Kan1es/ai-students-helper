@@ -1,0 +1,109 @@
+{
+  "mode": "retrieval_only",
+  "semantic_answers_reviewed": false,
+  "passed": 6,
+  "total": 6,
+  "import": {
+    "course_id": "cd73ac05-af6f-4b84-9af4-aaf210a96a09",
+    "materials_version": "0fd3695c10cd7acac50ec7c63ddad493559c298d11b3c65f959ed5a10d8405b3",
+    "already_present": false,
+    "lessons": 20,
+    "lessons_without_text": [
+      "5a67e15e-26d2-493e-9f58-91981eb2f941",
+      "bccfa1b5-cff8-4f9f-bcd4-b9d063961e09",
+      "66d96fcf-fa05-479a-b3d2-e4fd73b19c09",
+      "a4995c9e-3668-4d6d-ba80-8755a4ac3b92"
+    ],
+    "lessons_without_url": [
+      "a53f044e-b34c-4efa-9853-55b5ee342e8d",
+      "5a67e15e-26d2-493e-9f58-91981eb2f941",
+      "8c545e2f-518a-4f59-91ed-1b28381f4733",
+      "062dff91-25a0-4249-a869-9d61cecae26b",
+      "98f13155-4c34-4d20-a365-9cdc9ab703f3",
+      "9b36d2d6-669e-4c9b-9679-89155cc949e8",
+      "1aa0757c-b8f3-4a85-8236-d3f25d4a1576",
+      "fb6e39d8-b3de-4efc-9ec2-60d3e3cd4942",
+      "73f66558-d3b8-49a6-b729-34ad760fb273",
+      "cd3e3cef-f1a5-417e-ad34-e80849e044a0",
+      "113368c8-5c8d-4332-989c-6711e3981da1",
+      "9cecdbf6-4246-4484-9c77-6cbd2dad36b6",
+      "e4c4aa6e-a477-485f-a6ee-3efa0bffa3a9",
+      "8f7f347e-9e65-4ade-9284-b82f70aebb17",
+      "92b76b56-5b28-4ff0-90ff-1d4426737444",
+      "b0b35e11-b89f-4e9d-ba8b-4db9b08657d9",
+      "4a6ddb12-bd12-43cf-8376-04d75e03cea7",
+      "bccfa1b5-cff8-4f9f-bcd4-b9d063961e09",
+      "66d96fcf-fa05-479a-b3d2-e4fd73b19c09",
+      "a4995c9e-3668-4d6d-ba80-8755a4ac3b92"
+    ]
+  },
+  "results": [
+    {
+      "question": "Как работать с таблицами Pandas?",
+      "expected_lesson_ids": [
+        "fb6e39d8-b3de-4efc-9ec2-60d3e3cd4942",
+        "73f66558-d3b8-49a6-b729-34ad760fb273"
+      ],
+      "retrieved_lesson_ids": [
+        "fb6e39d8-b3de-4efc-9ec2-60d3e3cd4942",
+        "e4c4aa6e-a477-485f-a6ee-3efa0bffa3a9",
+        "9cecdbf6-4246-4484-9c77-6cbd2dad36b6",
+        "1aa0757c-b8f3-4a85-8236-d3f25d4a1576"
+      ],
+      "passed": true
+    },
+    {
+      "question": "Для чего используются матрицы NumPy?",
+      "expected_lesson_ids": [
+        "9cecdbf6-4246-4484-9c77-6cbd2dad36b6",
+        "e4c4aa6e-a477-485f-a6ee-3efa0bffa3a9"
+      ],
+      "retrieved_lesson_ids": [
+        "e4c4aa6e-a477-485f-a6ee-3efa0bffa3a9",
+        "9cecdbf6-4246-4484-9c77-6cbd2dad36b6"
+      ],
+      "passed": true
+    },
+    {
+      "question": "Как создать Excel-файл в Python?",
+      "expected_lesson_ids": [
+        "b0b35e11-b89f-4e9d-ba8b-4db9b08657d9"
+      ],
+      "retrieved_lesson_ids": [
+        "b0b35e11-b89f-4e9d-ba8b-4db9b08657d9"
+      ],
+      "passed": true
+    },
+    {
+      "question": "Как выполнить Web-parsing?",
+      "expected_lesson_ids": [
+        "cd3e3cef-f1a5-417e-ad34-e80849e044a0",
+        "113368c8-5c8d-4332-989c-6711e3981da1"
+      ],
+      "retrieved_lesson_ids": [
+        "cd3e3cef-f1a5-417e-ad34-e80849e044a0",
+        "1aa0757c-b8f3-4a85-8236-d3f25d4a1576",
+        "98f13155-4c34-4d20-a365-9cdc9ab703f3"
+      ],
+      "passed": true
+    },
+    {
+      "question": "Как построить визуализацию в Python?",
+      "expected_lesson_ids": [
+        "8f7f347e-9e65-4ade-9284-b82f70aebb17",
+        "92b76b56-5b28-4ff0-90ff-1d4426737444"
+      ],
+      "retrieved_lesson_ids": [
+        "92b76b56-5b28-4ff0-90ff-1d4426737444"
+      ],
+      "passed": true
+    },
+    {
+      "question": "Квантовая телепортация запутанных кубитов",
+      "expected_lesson_ids": [],
+      "expect_empty": true,
+      "retrieved_lesson_ids": [],
+      "passed": true
+    }
+  ]
+}
